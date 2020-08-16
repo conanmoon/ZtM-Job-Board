@@ -15787,5 +15787,21 @@ export const data = {
       country: "South Korea"
     },
   },
+   ,{
+    id: uuidv4(),
+    name: "Seungtae Moon]",
+    img: "https://drive.google.com/file/d/1k8CuORE-whF8QWjmRFANKLiD23HDaHy-/view?usp=sharing",
+    links: {
+      website: "https://medium.com/@conanmoon",
+      linkedin: "https://www.linkedin.com/in/conanmoon/",
+      github: "https://github.com/conanmoon/Portfolio"
+    },
+    jobTitle: "Data Science Candidate",
+    location: {
+      city: "Suwon",
+      state: "Gyeonggi-do",
+      country: "South Korea"
+    }
+  }
   ]
 }
